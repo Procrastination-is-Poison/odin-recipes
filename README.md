@@ -1,24 +1,27 @@
 # odin-recipes
-TOP#1: HTML &amp; CSS
+TOP#1: HTML and CSS
 Recipe website with a main index page that has links to 3 separate recipe pages
 
-PERSONAL REFLECTION PART I 
    HTML portion:
-     Organized website folder according to conventional file organization system:
+     1) A website folder according to conventional file organization system:
          separate index page, separate folder for remaining website pages, separate folder for images.
+     2) Multiple ordered & unordered lists, & nested lists.
+     3)Relative & Absolute links, organized in a list. !Target value _blank to open link in new tab!
+     4)!Googled! how to link to top of a page (href="#top")
+     5)!Googled! (implemented elsewhere) how to link to separate sections of the same page
+        ( using global attribute id & # )
+     6)!Googled! how to separate sections with a line (hr)
+     7)Images/Icons manipulated (badly) with width attribute pending CSS intervention
 
-     Practiced nesting lists
+   GIT: Staged & implemented commits using the integrated Command Line
 
-     Practiced relative & absolute links. Remembered to add _blank target value to external links so they open in new tab. Put links in a list. Googled how to link to the top of a page (#top) which wasn't in html lessons. Also googled how to link to different sections of the same page using the global "id" attribute & "#". Needed it for glossary.html exercise where I organized a medical glossary by alphabetical order.
+   CSS portion: PENDING  
 
-     Practiced inserting images. Fiddled with width/height attributes. Results not very pretty. Need to address with CSS elements.
 
-     Spent too much time choosing images/icons to use & trying to manipulate them to align how I want. Will be using/addressing them with CSS.
-     I'm afraid of ending up going down a design rabbit hole....
 
-     Had to google how to insert a line between sections <hr>
-REFLECTIONS ON GIT:
-    Have been staging/doing commits using the integrated CL. Could probably use feedback on whether commits are appropriate/up to standards.      
+     
+
+           
 
 
       
